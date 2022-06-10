@@ -1,6 +1,0 @@
-/*
- * Public API Surface of utils-lib
- */
-export * from './lib/environment.model';
-export * from './lib/injection.tokens';
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL3V0aWxzLWxpYi9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMseUJBQXlCLENBQUM7QUFDeEMsY0FBYyx3QkFBd0IsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgdXRpbHMtbGliXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvZW52aXJvbm1lbnQubW9kZWwnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvaW5qZWN0aW9uLnRva2Vucyc7XG4iXX0=
