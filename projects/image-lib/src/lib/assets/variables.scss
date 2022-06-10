@@ -1,0 +1,13 @@
+:root,
+html[data-theme="light"] {
+  --slide-toggle-width: 120px;
+  --slide-toggle-padding: 7px;
+  --slide-toggle-height: var(--slide-toggle-width) / 2 + var(--slide-toggle-padding);
+  --slide-toggle-background-colour: #15273b;
+  --slide-toggle-background-colour-selected: #ccc;
+}
+
+html[data-theme="dark"] {
+  --slide-toggle-background-colour: #ccc;
+  --slide-toggle-background-colour-selected: #15273b;
+}
